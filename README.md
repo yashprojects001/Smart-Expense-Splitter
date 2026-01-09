@@ -88,4 +88,4 @@ Cloud sync
 
 👤 Author
 
-Yashu
+Yash Pathrikar
