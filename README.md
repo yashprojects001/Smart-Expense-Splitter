@@ -1,4 +1,4 @@
-# Smart-Expense-Splitter💸 Smart Expense Splitter
+💸 Smart Expense Splitter
 
 A simple and practical web application that helps groups split expenses fairly.
 Perfect for trips, hostel expenses, or group outings — no login required.
